@@ -33,8 +33,7 @@ Power BI for data visualization and dashboard creation.
 - This project demonstrates how Power BI can transform raw sales data into actionable insights, highlighting profitability, customer concentration, and product performance trends.
 
   **👤 Author**
-  
-  Aspiring Data Analyst
+  **Aspiring Data Analyst**
 
 - LinkedIn: https://www.linkedin.com/in/dhanyamaryboban
 - Email: dhanyamb0898@gmail.com
